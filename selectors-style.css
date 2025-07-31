@@ -1,0 +1,53 @@
+*{
+    color: pink;
+}
+h1.colour{
+    
+    color: blue;
+    background-color: orange;
+    /* margin-bottom: 0; */
+}
+
+p.colour{
+    /* margin-top: 0; */
+    color: brown;
+    background-color: magenta;
+}
+
+
+.test{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    /* text-decoration: line-through; */
+}
+p.test{
+    text-align: center;    
+    /* text-decoration: blue wavy underline; */
+    color: black;
+    font-size:x-large;
+    font-weight: 700;
+    
+}
+
+.heading{
+    text-transform: uppercase;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+#outer{
+    font-size: 25px;
+    color: red;
+}
+
+#inner{
+    font-size: 20px;
+    color: black;
+}
+.box-model{
+    margin: 100px;
+    height: 100px;
+    width: 100px;
+    border: 30px;
+    
+}
+

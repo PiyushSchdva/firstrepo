@@ -1,0 +1,20 @@
+.container{
+    color: blue;
+    height: 100px;
+    font-size: 20px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    border: 2px solid black;
+    margin-left: 100px;
+    
+}
+.container-2{
+    background-color: aqua;
+    height: 100px;
+    font-size: 20px;
+    margin:0px;
+    position:absolute;
+}
